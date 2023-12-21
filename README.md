@@ -12,11 +12,6 @@ I thrive in the world of data, bringing both coding expertise and a love for bas
 
 Always open to learning and growing! 🚀
 
-## 📫 How to reach me: 
-- Email: hacioglua777@gmail.com
-- LinkedIn: [linkedin.com/in/hacioglua](https://www.linkedin.com/in/hacioglua/)
-
-
 Looking forward to new coding challenges and exciting basketball games! 🏀💻
 
 
