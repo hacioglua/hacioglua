@@ -3,7 +3,7 @@
 I'm Ahmet HACIOĞLU, a computer engineering student with a passion for data wherever it may be! 💻📊
 
 - 🔭 I’m currently working on cloud computing and technologies
-- 🖥️ Technical Skills: Java, Python, SQL, Golang, Unix Scripting, C/Mips, NoSQL, Javascript
+- 🖥️ Technical Skills: Java, Python, SQL, Golang, Unix Scripting, C
 - 🏀 Former Basketball Coach and Player
 - 🌐 [LinkedIn](https://www.linkedin.com/in/hacioglua/)
 - 📧 Email: hacioglua777@gmail.com
