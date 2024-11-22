@@ -16,6 +16,3 @@ I have hands-on experience with a variety of tools and technologies:
 ## 📫 **Connect with Me**
 - [LinkedIn](https://www.linkedin.com/in/hacioglua/)
 - [Email](mailto:hacioglua777@gmail.com)
-
-## 📂 **Projects**
-Explore my projects on [GitHub](https://github.com/hacioglua).
